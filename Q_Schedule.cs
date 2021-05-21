@@ -26,7 +26,7 @@ namespace legacy_service_quarts
                  .WithIdentity("trigger1", "group1")
                    .WithCronSchedule("0 0 23 L * ?")   //11 PM every last day of the month
                     .Build();
-           
+
             scheduler.ScheduleJob(job, trigger);
            
         }
