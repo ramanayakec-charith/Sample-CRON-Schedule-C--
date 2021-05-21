@@ -1,0 +1,85 @@
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe.config
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Common.Logging.Core.dll
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Common.Logging.dll
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Quartz.dll
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Common.Logging.pdb
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Common.Logging.xml
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Common.Logging.Core.pdb
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Common.Logging.Core.xml
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Quartz.pdb
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\Quartz.xml
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.csprojResolveAssemblyReference.cache
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.ProjectInstaller.resources
+E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.csproj.GenerateResource.Cache
+\\192.168.5.250\ptx_systems$\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe.config
+\\192.168.5.250\ptx_systems$\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.exe
+\\192.168.5.250\ptx_systems$\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\obj\Debug\legacy_service_quarts.pdb
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe.config
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.exe
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.pdb
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\legacy_service_quarts.pdb
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.Core.dll
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.dll
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Quartz.dll
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.pdb
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.xml
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.Core.pdb
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.Core.xml
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Quartz.pdb
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Quartz.xml
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.ProjectInstaller.resources
+E:\NEW_MODI\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.csproj.GenerateResource.Cache
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe.config
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.Core.dll
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.dll
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Quartz.dll
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.xml
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.Core.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Common.Logging.Core.xml
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Quartz.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\bin\Debug\Quartz.xml
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.csprojResolveAssemblyReference.cache
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.ProjectInstaller.resources
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI\legacy_service_quarts\obj\Debug\legacy_service_quarts.csproj.GenerateResource.Cache
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe.config
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.ProjectInstaller.resources
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.csproj.GenerateResource.Cache
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.Core.dll
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.dll
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Quartz.dll
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.xml
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.Core.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.Core.xml
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Quartz.pdb
+E:\SYSTEMS\NEWPC\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Quartz.xml
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe.config
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.ProjectInstaller.resources
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\obj\Debug\legacy_service_quarts.csproj.GenerateResource.Cache
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\legacy_service_quarts.pdb
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.Core.dll
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.dll
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Quartz.dll
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.pdb
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.xml
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.Core.pdb
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Common.Logging.Core.xml
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Quartz.pdb
+E:\SYSTEMS\NEWPC\for Git\legacy_service_quarts-SSBI-5_14\legacy_service_quarts\bin\Debug\Quartz.xml

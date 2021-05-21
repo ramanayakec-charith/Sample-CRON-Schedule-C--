@@ -1,0 +1,237 @@
+﻿Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Uninstalling assembly 'E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.InstallLog
+   assemblypath = E:\SYSTEMS\solution\Newboard\Call_Legacy_Srv\legacy_service_quarts\legacy_service_quarts\bin\Debug\legacy_service_quarts.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
